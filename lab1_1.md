@@ -1,4 +1,4 @@
-# Лабораторная работа 1: Stack и Queue
+
 from typing import Generic, TypeVar, List, Optional
 T = TypeVar('T')
 class Stack(Generic[T]):
